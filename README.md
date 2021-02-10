@@ -82,7 +82,7 @@ Esta API encontra-se incompleta e insatisfeita dos requisitos.
 
 Como eu, o autor, nunca havia trabalhado com nada em PHP, tentei me esforçar dobrado e aprender o framework antes de começar a de fato desenvolvê-la.
 
-No entanto, faltou tempo para finalizá-la. As entidades estão mapeadas, mas faltaram alguns Controllers e funcionalidades.
+No entanto, faltou tempo para finalizá-la. As entidades estão mapeadas, mas faltaram alguns Controllers, funcionalidades, validações etc.
 
 Laravel é um framework muito simples e prático, me apaixonei por ele e com certeza vou continuar estudando por conta própria, mas foi difícil conciliar tudo isso com minhas outras responsabilidades.
 
